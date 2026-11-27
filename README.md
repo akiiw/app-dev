@@ -4,9 +4,7 @@ My first repository
 **The Hunger Games** is a dystopian science fiction series written by *Suzanne Collins* and adapted into a blockbuster film franchise. Set in the post-apocalyptic nation of **Panem**, the story follows **Katniss Everdeen** after she volunteers to take her younger sister's place in a televised fight to the death.
 
 > *"May the odds be ever in your favor."*
-
----
-
+> 
 ### Main Characters
 * **Katniss Everdeen** – The resourceful "Girl on Fire" from District 12 and the reluctant symbol of the rebellion.
 * **Peeta Mellark** – The baker's son from District 12 known for his empathy, strength, and loyalty.
